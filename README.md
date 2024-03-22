@@ -1,3 +1,3 @@
 # nutricao-alura
 
-[Live Demo](https://www.linkedin.com/in/ana-carolina-godoi/)
+[Live Demo](https://anagodoi.github.io/nutricao-alura/){:target="_blank"}
